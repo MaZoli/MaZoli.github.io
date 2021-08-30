@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Serry";
+    src: url(Fonts/Serry.otf);
+}
+h1 {color: rgb(235, 49, 49); font-size: 32px; font-family: "Serry"; text-align: center;}
+h3 {color: green; font-size: 24px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h4 {color: darkslategrey; font-size: 16px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; line-height: normal;}
+p {color: sienna; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+img {
+    width: 400px; height: 400px; margin: 20px;
+}
