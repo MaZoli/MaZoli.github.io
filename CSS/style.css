@@ -6,6 +6,7 @@
     font-family: "Architects Daughter";
     src: url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 }
+.content {font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(95, 9, 145); font-size: 14px;}
 h1 {color: rgb(248, 70, 10); font-family: "Architects Daughter", cursive; text-align: center;}
 h3 {color: green; font-size: 24px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 h4 {color: darkslategrey; font-size: 16px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; line-height: normal;}
